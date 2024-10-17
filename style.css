@@ -1,0 +1,9 @@
+nav, main{
+    margin-bottom: 40px;
+}
+img{
+    margin-top: 20px;
+    height: 50vh;
+    width: 50vw;
+    object-fit: cover;
+}
